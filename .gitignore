@@ -1,0 +1,13 @@
+# Mike OS local runtime data
+*.db
+*.sqlite
+*.sqlite3
+mike_os.log
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+
+# macOS
+.DS_Store
